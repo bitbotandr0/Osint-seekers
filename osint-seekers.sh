@@ -12,11 +12,11 @@ opc=0
 
 while [[ $opc -le 6 ]]; do
 
-echo -e "\e[36m1) Osint Framework [Información de fuentes abiertas]\e[0m"
-echo -e "\e[32m2) Shodan [Motor de busqueda orientado al Hacking]\e[0m"
-echo -e "\e[33m3) Hunter.io [Buscador de emails de sitios web]\e[0m"
-echo -e "\e[35m4) FoFa [Buscador de equipos conectados a Internet]\e[0m"
-echo -e "\e[1;33m5) Zoomeye [El ojo que todo lo ve]\e[0m"
+echo -e "\e[36m1) Osint Framework[Información de fuentes abiertas]\e[0m"
+echo -e "\e[32m2) Shodan[Motor de busqueda orientado al Hacking]\e[0m"
+echo -e "\e[33m3) Hunter.io[Buscador de emails de sitios web]\e[0m"
+echo -e "\e[35m4) FoFa[Buscador de equipos conectados a Internet]\e[0m"
+echo -e "\e[1;33m5) Zoomeye[El ojo que todo lo ve]\e[0m"
 echo -e "\e[31m6) salir\e[0m"
 read -p "seleccione del [1 al 6] digite el número en su teclado : "  opc
 i=0

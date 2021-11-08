@@ -120,7 +120,7 @@ case $opc in
       *)clear
         echo "UPS!!"
         echo "acaba de digitar una opción inválida"
-        echo "la pantalla se bloqueará"
+        echo "Sí su pantalla se bloque"
         echo "digite CTRL+c para volver a intentarlo"
         sleep 3
         cmatrix
